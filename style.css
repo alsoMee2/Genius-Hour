@@ -11,3 +11,12 @@ body{
 	position: relative;
 	left:50px;
 }
+.navlink{
+	position: relative;
+	display: inline-block;
+}
+.navbardiv{
+	border: 0px;
+	padding: 1px 20px;
+	background-color: gray;
+}
