@@ -1,15 +1,18 @@
 *{
-	font-family: 'Boogaloo', cursive;
-}
-body{
+
+	font-family: 'Boogaloo', serif;
 	border:0px;
 	padding: 0px;
 	margin: 0px;
-	background-color: #f2f2f2;
 }
-#title{
-	position: relative;
-	left:50px;
+body{
+
+}
+#pagewrapper{
+
+	height: 2000px;
+	background-image: url(images/wall.png);
+	background-size: 100% 100%;
 }
 .navlink{
 	position: relative;
@@ -19,4 +22,13 @@ body{
 	border: 0px;
 	padding: 1px 20px;
 	background-color: gray;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+
+   background-color: #00ceed;
 }
