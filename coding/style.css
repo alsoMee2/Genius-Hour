@@ -3,12 +3,13 @@
     border:0px;
 	padding: 0px;
 	margin: 0px;
+
 }
 body{
 
     height: 2000px;
     background-image: url(/images/wall.png);
-
+    
 }
 .navlink{
 	position: relative;
@@ -25,4 +26,5 @@ p{
 }
 h3{
 	color: black;
+
 }
