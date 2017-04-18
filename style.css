@@ -1,17 +1,27 @@
-*{
 
-	font-family: 'Boogaloo', serif;
+*{
 	border:0px;
 	padding: 0px;
 	margin: 0px;
+	font-family: 'Boogaloo', serif;
+
 }
 body{
+	background-image: url(images/wall.png);
 
 }
-#pagewrapper{
+#logo{
+	margin: 10px;
 
+}
+#logotxt{
+	position: relative;
+	left: 100px;
+	top: -60px;
+}
+#pagewrapper{
+	padding:15px;
 	height: 2000px;
-	background-image: url(images/wall.png);
 	background-size: 100% 100%;
 }
 .navlink{

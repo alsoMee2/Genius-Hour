@@ -1,0 +1,28 @@
+*{
+    font-family: 'Share Tech Mono', serif;
+    border:0px;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+
+    height: 2000px;
+    background-image: url(/images/wall.png);
+
+}
+.navlink{
+	position: relative;
+	display: inline-block;
+}
+.navbardiv{
+	border: 0px;
+	padding: 1px 20px;
+	background-color: gray;
+}
+p{
+	padding: 10px;
+	margin: 10px;
+}
+h3{
+	color: black;
+}
